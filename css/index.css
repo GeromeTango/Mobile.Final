@@ -1,8 +1,11 @@
+.navbarcenter {
+    justify-content: center;
+}
+
 .parallax1 {
     background-image: url("/media/jumbotronimage1.png");
   
     height: 600px;
-    max-width: 1800px;
   
     background-attachment: fixed;
     background-position: center;
