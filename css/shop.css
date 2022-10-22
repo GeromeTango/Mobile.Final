@@ -1,0 +1,33 @@
+.parallax1 {
+    background-image: url("/media/jumbotronimage1.png");
+  
+    height: 600px;
+    max-width: 1800px;
+  
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax2 {
+    background-image: url("/media/jumbotronimage2.png");
+
+    height: 600px;
+    max-width: 1800px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax3 {
+    background-image: url("/media/jumbotronimage3.png");
+
+    height: 600px;
+    max-width: 1800px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
